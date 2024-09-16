@@ -11,6 +11,7 @@ looking for null cells
 
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/ae2feb33-b594-4099-9eab-7ec2d3000b91">
 
+no null values
 
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/763c1742-8021-457b-b738-5574b60b77f1">
 
@@ -19,6 +20,19 @@ Source: https://www.kaggle.com/datasets/roopacalistus/superstore?resource=downlo
 
 Description: generated csv file that was created as an example for analysis by the creator
 
-no null values
+# Demonstrated Skills
+
+# Tools I Used
+Python:
+
+Jupyter Notebook
+
+VsCode:
+
+Github:
+
+
+#Exploratory Data Analysis
+
 
 
