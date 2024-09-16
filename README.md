@@ -35,6 +35,18 @@ Github:
 # Exploratory Data Analysis
 Questions to answer for this analysis, relevant to stakeholders:
 
+1. What region do customers order from the most:
+
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/0844a093-c08b-4d7a-8d54-e8f484f1fea1">
+
+Most customers are from the West Region
+
+2. 
+
+
+
+ 
+
 # Executive Summary
 Observation/Summary:
 
