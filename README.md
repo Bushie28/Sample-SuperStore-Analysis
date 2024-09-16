@@ -32,7 +32,13 @@ VsCode:
 Github:
 
 
-#Exploratory Data Analysis
+# Exploratory Data Analysis
+Questions to answer for this analysis, relevant to stakeholders:
+
+# Executive Summary
+Observation/Summary:
+
+Reccommendations:
 
 
 
