@@ -41,7 +41,13 @@ Questions to answer for this analysis, relevant to stakeholders:
 
 Most customers are from the West Region
 
-2. 
+2. States in each region that order the most and least
+   
+   <img width="452" alt="image" src="https://github.com/user-attachments/assets/93f6d6f3-2dfe-4a1b-85c6-8bcd4b2eee5c">
+   <img width="452" alt="image" src="https://github.com/user-attachments/assets/cd65b77c-4f04-4f4a-bf8c-abbcc4f3dd10">
+   <img width="452" alt="image" src="https://github.com/user-attachments/assets/9b25f9f4-0474-4fc2-a374-24984246a60d">
+   <img width="452" alt="image" src="https://github.com/user-attachments/assets/f59b8792-2835-45b6-9e92-0c4996a5f7b0">
+   <img width="452" alt="image" src="https://github.com/user-attachments/assets/8a6cfb5b-7912-48c2-b8b8-77de828f8792">
 
 
 
