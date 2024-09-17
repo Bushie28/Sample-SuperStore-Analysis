@@ -114,7 +114,24 @@ Technology has the most sale
       <img width="452" alt="image" src="https://github.com/user-attachments/assets/dfd6d516-2791-4e1e-a2cb-b686a00fde62">
       <img width="452" alt="image" src="https://github.com/user-attachments/assets/e101c434-8e99-4688-b693-48c3e3e47b51">
       <img width="452" alt="image" src="https://github.com/user-attachments/assets/03d12f52-8489-4813-8e33-b92b9a0b2e0c">
-      
+
+      East
+
+      <img width="452" alt="image" src="https://github.com/user-attachments/assets/c990dc7a-9802-45a9-9dd8-429e0f0e84dd">
+      <img width="452" alt="image" src="https://github.com/user-attachments/assets/41da3059-4dd7-4cca-96f2-13c0c49d2210">
+      <img width="452" alt="image" src="https://github.com/user-attachments/assets/d7a7ecc1-b72e-40c4-8e85-6ffef2c08f1b">
+
+      South
+
+      <img width="452" alt="image" src="https://github.com/user-attachments/assets/15e74f2d-345d-4bc1-b539-e90df2b019b1">
+      <img width="452" alt="image" src="https://github.com/user-attachments/assets/eb81fe49-f62e-4819-8578-56f9aa9bc625">
+      <img width="452" alt="image" src="https://github.com/user-attachments/assets/04740d7c-4e1d-4f88-8e4c-7612d78530de">
+
+      West
+
+      <img width="452" alt="image" src="https://github.com/user-attachments/assets/d9a90328-e4e7-44b7-9a23-eb6a73bba11a">
+      <img width="452" alt="image" src="https://github.com/user-attachments/assets/754d4ef8-eabe-4041-b023-6f2756d1c7a5">
+      <img width="452" alt="image" src="https://github.com/user-attachments/assets/1f0d6373-4688-4ab3-982d-1450eb37b2de">
 
      
  
