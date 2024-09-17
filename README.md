@@ -105,35 +105,15 @@ Technology has the most sale
    <img width="452" alt="image" src="https://github.com/user-attachments/assets/a29c1921-62b6-47b4-b0d3-2523bd51a206">
 
 
-6.  most and least ordered category in each region
-  
-      <img width="1089" alt="Screenshot 2024-09-16 at 8 03 49 PM" src="https://github.com/user-attachments/assets/db4b1768-8a9b-423b-a462-e1d887b0524c">
+6.  quantity ordered category in each region
+
+      <img width="452" alt="image" src="https://github.com/user-attachments/assets/0f260c3d-0d5f-4228-8a90-ece415ee9eca">
+      <img width="452" alt="image" src="https://github.com/user-attachments/assets/2542f302-f74e-4494-96da-a78a26832595">
+      <img width="452" alt="image" src="https://github.com/user-attachments/assets/12d32722-45dc-4d4b-abec-5bab7d209918">
       
-      Central
      
-      <img width="452" alt="image" src="https://github.com/user-attachments/assets/dfd6d516-2791-4e1e-a2cb-b686a00fde62">
-      <img width="452" alt="image" src="https://github.com/user-attachments/assets/e101c434-8e99-4688-b693-48c3e3e47b51">
-      <img width="452" alt="image" src="https://github.com/user-attachments/assets/03d12f52-8489-4813-8e33-b92b9a0b2e0c">
 
-      East
-
-      <img width="452" alt="image" src="https://github.com/user-attachments/assets/c990dc7a-9802-45a9-9dd8-429e0f0e84dd">
-      <img width="452" alt="image" src="https://github.com/user-attachments/assets/41da3059-4dd7-4cca-96f2-13c0c49d2210">
-      <img width="452" alt="image" src="https://github.com/user-attachments/assets/d7a7ecc1-b72e-40c4-8e85-6ffef2c08f1b">
-
-      South
-
-      <img width="452" alt="image" src="https://github.com/user-attachments/assets/15e74f2d-345d-4bc1-b539-e90df2b019b1">
-      <img width="452" alt="image" src="https://github.com/user-attachments/assets/eb81fe49-f62e-4819-8578-56f9aa9bc625">
-      <img width="452" alt="image" src="https://github.com/user-attachments/assets/04740d7c-4e1d-4f88-8e4c-7612d78530de">
-
-      West
-
-      <img width="452" alt="image" src="https://github.com/user-attachments/assets/d9a90328-e4e7-44b7-9a23-eb6a73bba11a">
-      <img width="452" alt="image" src="https://github.com/user-attachments/assets/754d4ef8-eabe-4041-b023-6f2756d1c7a5">
-      <img width="452" alt="image" src="https://github.com/user-attachments/assets/1f0d6373-4688-4ab3-982d-1450eb37b2de">
-
- 7. Discounts in each category
+ 6. Discounts in each category
 
     <img width="452" alt="image" src="https://github.com/user-attachments/assets/a9fa356b-dd92-4334-9b6e-73a98dd4b4e5">
 
@@ -143,7 +123,7 @@ Technology has the most sale
         <img width="452" alt="image" src="https://github.com/user-attachments/assets/a720b1c9-bebe-46ee-afa4-b8da102bd228">
         <img width="452" alt="image" src="https://github.com/user-attachments/assets/1eda6eac-9c8b-4948-8646-7ebfc61b4b7f">
 
- 8. Profit in each category
+ 7. Profit in each category
 
       <img width="1085" alt="Screenshot 2024-09-16 at 8 39 06 PM" src="https://github.com/user-attachments/assets/575c33ff-4801-4d8b-b978-bf5fa6ec8bea">
       <img width="396" alt="image" src="https://github.com/user-attachments/assets/52b67c91-a54a-4c93-9c51-de81f8773ffd">
