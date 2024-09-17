@@ -154,7 +154,22 @@ Technology has the most sale
      <img width="452" alt="image" src="https://github.com/user-attachments/assets/cac9a016-884f-4010-9c83-e17e448906d3">
       
     
- 10. Profit by segment
+ 10. Profit by category and region
+     
+     <img width="1092" alt="Screenshot 2024-09-16 at 8 54 31 PM" src="https://github.com/user-attachments/assets/a2a74acb-d85b-4bf2-90a0-660acf8a6d35">
+     <img width="452" alt="image" src="https://github.com/user-attachments/assets/e872af6a-178d-4987-97e0-87d9efdcd720">
+       <img width="452" alt="image" src="https://github.com/user-attachments/assets/4348663c-5c79-42ad-b93f-4146c48b005f">
+     
+ 12. Profit by segment
+ 13. segment that orders the most or least category
+ 14. segment that orders most or least subcategory
+ 15. ship mode by region
+ 16. ship mode by category
+ 17. ship mode by sub category
+ 18. ship mode by segment
+     
+
+     
     
 
 # Executive Summary
