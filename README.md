@@ -82,7 +82,7 @@ Technology has the most sale
    <img width="452" alt="image" src="https://github.com/user-attachments/assets/365f7bcb-76c3-4433-b242-00939f0c28a7">
 
 
-   5.  Most and least ordered subcategory by sales and category in each category
+5.  Most and least ordered subcategory by sales and category in each category
 
       <img width="452" alt="image" src="https://github.com/user-attachments/assets/a258053e-ade8-437e-b2b5-a15910cd6695">
 
@@ -136,12 +136,12 @@ Technology has the most sale
      7. Discounts in each category
 
         <img width="452" alt="image" src="https://github.com/user-attachments/assets/a9fa356b-dd92-4334-9b6e-73a98dd4b4e5">
-
-   office supplies has the most discounts
+   
         <img width="452" alt="image" src="https://github.com/user-attachments/assets/d5c5cef3-448d-48bd-af68-e664e493d1bb">
         <img width="452" alt="image" src="https://github.com/user-attachments/assets/a720b1c9-bebe-46ee-afa4-b8da102bd228">
         <img width="452" alt="image" src="https://github.com/user-attachments/assets/1eda6eac-9c8b-4948-8646-7ebfc61b4b7f">
- 
+
+ 8. 
 
 # Executive Summary
 Observation/Summary:
