@@ -143,7 +143,19 @@ Technology has the most sale
         <img width="452" alt="image" src="https://github.com/user-attachments/assets/a720b1c9-bebe-46ee-afa4-b8da102bd228">
         <img width="452" alt="image" src="https://github.com/user-attachments/assets/1eda6eac-9c8b-4948-8646-7ebfc61b4b7f">
 
- 8. 
+ 8. Profit in each category
+
+      <img width="1085" alt="Screenshot 2024-09-16 at 8 39 06 PM" src="https://github.com/user-attachments/assets/575c33ff-4801-4d8b-b978-bf5fa6ec8bea">
+      <img width="396" alt="image" src="https://github.com/user-attachments/assets/52b67c91-a54a-4c93-9c51-de81f8773ffd">
+
+      Technology brings in a little over 50% of the profits
+    
+     <img width="452" alt="image" src="https://github.com/user-attachments/assets/44bf4aea-2632-4dd5-a963-b052a35a564b">
+     <img width="452" alt="image" src="https://github.com/user-attachments/assets/cac9a016-884f-4010-9c83-e17e448906d3">
+      
+    
+ 10. Profit by segment
+    
 
 # Executive Summary
 Observation/Summary:
