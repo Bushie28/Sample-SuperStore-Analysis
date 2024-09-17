@@ -133,13 +133,13 @@ Technology has the most sale
       <img width="452" alt="image" src="https://github.com/user-attachments/assets/754d4ef8-eabe-4041-b023-6f2756d1c7a5">
       <img width="452" alt="image" src="https://github.com/user-attachments/assets/1f0d6373-4688-4ab3-982d-1450eb37b2de">
 
-    7. Discounts in each category
+ 7. Discounts in each category
 
-        <img width="452" alt="image" src="https://github.com/user-attachments/assets/a9fa356b-dd92-4334-9b6e-73a98dd4b4e5">
+    <img width="452" alt="image" src="https://github.com/user-attachments/assets/a9fa356b-dd92-4334-9b6e-73a98dd4b4e5">
 
-         Office supplioes has the most discounts
+    Office supplioes has the most discounts
 
-        <img width="452" alt="image" src="https://github.com/user-attachments/assets/d5c5cef3-448d-48bd-af68-e664e493d1bb">
+      <img width="452" alt="image" src="https://github.com/user-attachments/assets/d5c5cef3-448d-48bd-af68-e664e493d1bb">
         <img width="452" alt="image" src="https://github.com/user-attachments/assets/a720b1c9-bebe-46ee-afa4-b8da102bd228">
         <img width="452" alt="image" src="https://github.com/user-attachments/assets/1eda6eac-9c8b-4948-8646-7ebfc61b4b7f">
 
