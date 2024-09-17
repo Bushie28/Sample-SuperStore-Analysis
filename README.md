@@ -35,11 +35,13 @@ Github:
 # Exploratory Data Analysis
 Questions to answer for this analysis, relevant to stakeholders:
 
+
 1. What region do customers order from the most:
 
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/0844a093-c08b-4d7a-8d54-e8f484f1fea1">
 
 Most customers are from the West Region
+
 
 2. States in each region that order the most and least
    
@@ -61,6 +63,7 @@ south
    
    <img width="452" alt="image" src="https://github.com/user-attachments/assets/8a6cfb5b-7912-48c2-b8b8-77de828f8792">
 
+
 3. total sales by category
 
    <img width="1084" alt="Screenshot 2024-09-16 at 7 12 20 PM" src="https://github.com/user-attachments/assets/7eb6dbd8-bf49-4f1f-bc7c-64fd4133d824">
@@ -69,14 +72,51 @@ Technology has the most sale
 
    <img width="452" alt="image" src="https://github.com/user-attachments/assets/a189259d-d333-4202-8e8c-a8def70780cf">
 
-3. Most ordered category
+
+4. Most ordered category
 
    <img width="1089" alt="Screenshot 2024-09-16 at 7 19 58 PM" src="https://github.com/user-attachments/assets/9f9ea6f1-3350-4809-9d27-8b729d7d3a51">
 
-   altough Office supplies is the most ordered category it  has 31.3% of the sales
+   altough Office supplies is the most ordered category it  has 31.3% of the sales. it has more volume than sales
 
    <img width="452" alt="image" src="https://github.com/user-attachments/assets/365f7bcb-76c3-4433-b242-00939f0c28a7">
-   
+
+
+   5. Most and least ordered subcategory by sales and category in each category
+
+      <img width="452" alt="image" src="https://github.com/user-attachments/assets/a258053e-ade8-437e-b2b5-a15910cd6695">
+
+      Furniture
+      
+      <img width="452" alt="image" src="https://github.com/user-attachments/assets/a75a5c60-9cc5-416f-9590-0c3ff7680f23">
+
+      <img width="452" alt="image" src="https://github.com/user-attachments/assets/7797a2a0-923c-4fde-b933-9dc24a56a2ee">
+
+      Office Supplies
+
+      <img width="452" alt="image" src="https://github.com/user-attachments/assets/8780831b-cc5b-413d-a4c7-502902b1f10c">
+
+      <img width="452" alt="image" src="https://github.com/user-attachments/assets/b499b702-adbf-433e-90ea-645d17dd4288">
+
+      Technology
+
+   <img width="452" alt="image" src="https://github.com/user-attachments/assets/e1ef5178-a6d2-4bba-9353-a3a95ba26d4d">
+
+   <img width="452" alt="image" src="https://github.com/user-attachments/assets/a29c1921-62b6-47b4-b0d3-2523bd51a206">
+
+
+   6. most and least ordered category in each region
+  
+      <img width="1089" alt="Screenshot 2024-09-16 at 8 03 49 PM" src="https://github.com/user-attachments/assets/db4b1768-8a9b-423b-a462-e1d887b0524c">
+
+      Central
+
+      <img width="452" alt="image" src="https://github.com/user-attachments/assets/dfd6d516-2791-4e1e-a2cb-b686a00fde62">
+      <img width="452" alt="image" src="https://github.com/user-attachments/assets/e101c434-8e99-4688-b693-48c3e3e47b51">
+      <img width="452" alt="image" src="https://github.com/user-attachments/assets/03d12f52-8489-4813-8e33-b92b9a0b2e0c">
+      
+
+     
  
 
 # Executive Summary
