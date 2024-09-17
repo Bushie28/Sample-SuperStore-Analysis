@@ -82,7 +82,7 @@ Technology has the most sale
    <img width="452" alt="image" src="https://github.com/user-attachments/assets/365f7bcb-76c3-4433-b242-00939f0c28a7">
 
 
-   5. Most and least ordered subcategory by sales and category in each category
+   5.  Most and least ordered subcategory by sales and category in each category
 
       <img width="452" alt="image" src="https://github.com/user-attachments/assets/a258053e-ade8-437e-b2b5-a15910cd6695">
 
@@ -105,7 +105,7 @@ Technology has the most sale
    <img width="452" alt="image" src="https://github.com/user-attachments/assets/a29c1921-62b6-47b4-b0d3-2523bd51a206">
 
 
-   6. most and least ordered category in each region
+   6.  most and least ordered category in each region
   
       <img width="1089" alt="Screenshot 2024-09-16 at 8 03 49 PM" src="https://github.com/user-attachments/assets/db4b1768-8a9b-423b-a462-e1d887b0524c">
 
@@ -133,7 +133,14 @@ Technology has the most sale
       <img width="452" alt="image" src="https://github.com/user-attachments/assets/754d4ef8-eabe-4041-b023-6f2756d1c7a5">
       <img width="452" alt="image" src="https://github.com/user-attachments/assets/1f0d6373-4688-4ab3-982d-1450eb37b2de">
 
-     
+     7. Discounts in each category
+
+        <img width="452" alt="image" src="https://github.com/user-attachments/assets/a9fa356b-dd92-4334-9b6e-73a98dd4b4e5">
+
+   office supplies has the most discounts
+        <img width="452" alt="image" src="https://github.com/user-attachments/assets/d5c5cef3-448d-48bd-af68-e664e493d1bb">
+        <img width="452" alt="image" src="https://github.com/user-attachments/assets/a720b1c9-bebe-46ee-afa4-b8da102bd228">
+        <img width="452" alt="image" src="https://github.com/user-attachments/assets/1eda6eac-9c8b-4948-8646-7ebfc61b4b7f">
  
 
 # Executive Summary
