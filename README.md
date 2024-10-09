@@ -5,6 +5,7 @@ It shows an American online superstore that sells various things like furnitures
 
 # Importing Data and Exploratory Data Analysis
 importing csv file to jupyter notebook
+
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/fc10deb6-d868-453b-9d6a-b636b721ea51">
 
 looking for null cells
